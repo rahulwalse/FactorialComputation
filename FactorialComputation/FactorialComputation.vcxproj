@@ -139,7 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CoefficentsInBinomialTheorem.cpp" />
+    <ClCompile Include="DetermineFactorial.cpp" />
+    <ClCompile Include="DivisionBySubtraction.cpp" />
+    <ClCompile Include="Exponent.cpp" />
+    <ClCompile Include="Factorial.cpp" />
     <ClCompile Include="FactorialComputation.cpp" />
+    <ClCompile Include="FactorialExpression.cpp" />
+    <ClCompile Include="IsNumberFactorial.cpp" />
+    <ClCompile Include="LargestFactorial.cpp" />
+    <ClCompile Include="MultiplicationByAddition.cpp" />
+    <ClCompile Include="OneByFactorial.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="factorialf.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
